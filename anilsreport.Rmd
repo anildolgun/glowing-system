@@ -4,7 +4,7 @@ output: html_notebook
 ---
 
 
-These are the packages that I am usingb
+These are the packages that I am usingbdd
 
 ```{r setup}
 
