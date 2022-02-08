@@ -1,5 +1,6 @@
 ---
 title: "Report 02082022"
+author: Anil & Phil
 output: html_notebook
 ---
 
@@ -7,19 +8,16 @@ output: html_notebook
 These are the packages that I am usingbdd. change
 
 ```{r setup}
-
 library(tidyverse)
-
 ```
 
 
 this is how i get my data
 
 ```{r}
-library(readr)
+
 visits_by_hospital <- read_csv("https://raw.githubusercontent.com/philbowsher/Foundation-of-the-R-Workflow-workshop-2019-09-06/master/Examples/data/visits_by_hospital.csv")
 
-visits_by_hospital
 
 ```
 
